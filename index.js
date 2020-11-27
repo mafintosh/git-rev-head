@@ -15,5 +15,3 @@ module.exports = function (repo, cb) {
     })
   })
 }
-
-module.exports('.').then(console.log)
