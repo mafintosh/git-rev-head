@@ -1,17 +1,17 @@
-# git-head-hash
+# git-rev-head
 
-Get the current HEAD hash of a Git repo
+Get the current HEAD revision of a Git repo
 
 ```
-npm install git-head-hash
+npm install git-rev-head
 ```
 
 ## Usage
 
 ``` js
-const gitHeadHash = require('git-head-hash')
+const head = require('git-rev-head')
 
-console.log(await gitHeadHash('./repo')) // prints deadbeef...
+console.log(await head('./repo')) // prints deadbeef...
 ```
 
 ## License

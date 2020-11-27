@@ -1,18 +1,18 @@
 {
-  "name": "git-head-hash",
+  "name": "git-rev-head",
   "version": "1.0.0",
-  "description": "Get the current HEAD hash of a Git repo",
+  "description": "Get the current HEAD revision of a Git repo",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/mafintosh/git-head-hash.git"
+    "url": "https://github.com/mafintosh/git-rev-head.git"
   },
   "author": "Mathias Buus (@mafintosh)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mafintosh/git-head-hash/issues"
+    "url": "https://github.com/mafintosh/git-rev-head/issues"
   },
-  "homepage": "https://github.com/mafintosh/git-head-hash"
+  "homepage": "https://github.com/mafintosh/git-rev-head"
 }
