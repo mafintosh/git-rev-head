@@ -1,6 +1,6 @@
 {
   "name": "git-head-hash",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get the current HEAD hash of a Git repo",
   "main": "index.js",
   "dependencies": {},
